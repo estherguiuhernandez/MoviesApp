@@ -15,7 +15,6 @@
             android:id="@+id/iv_movie"
             android:layout_width="0dp"
             android:layout_height="300dp"
-            android:scaleType="centerCrop"
             android:src="@drawable/picture_movie_brackground"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

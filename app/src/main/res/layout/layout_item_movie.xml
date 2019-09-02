@@ -18,9 +18,8 @@
             android:id="@+id/iv_movie_grid"
             android:layout_width="0dp"
             android:layout_height="0dp"
-            android:scaleType="center"
             android:src="@drawable/picture_movie_brackground"
-            app:layout_constraintDimensionRatio="H,16:9"
+            app:layout_constraintDimensionRatio="H,9:13"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
